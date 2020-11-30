@@ -21,8 +21,8 @@ jar {
         )
     }
 }
-
-task wrapper(type: Wrapper) {
-    gradleVersion = '6.7.1'
-    distributionType = Wrapper.DistributionType.ALL
-}
+//
+//task wrapper(type: Wrapper) {
+//    gradleVersion = '6.7.1'
+//    distributionType = Wrapper.DistributionType.ALL
+//}
